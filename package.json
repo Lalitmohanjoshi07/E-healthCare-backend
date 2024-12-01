@@ -1,0 +1,12 @@
+{
+  "name": "e-healthcare-backend",
+  "version": "1.0.0",
+  "description": "this is the backend to the e-healthcare project a project that needs to be submitted by the end of the 7th semester",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js",
+    "backend": "nodemon index.js"
+  },
+  "author": "Arjun and team",
+  "license": "ISC"
+}
