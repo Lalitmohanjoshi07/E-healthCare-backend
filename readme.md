@@ -158,7 +158,7 @@ http://localhost:5000
 
 ---
 
-## Usage Notes for Frontend Engineers
+## Usage Notes for Frontend Engineers (Arjun ha tujhe hi bolra)
 
 1. **JWT Token**  
    - Most APIs require an `Authorization` header with a valid JWT token:
